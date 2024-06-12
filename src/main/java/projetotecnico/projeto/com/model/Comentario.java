@@ -19,7 +19,7 @@ import java.util.Date;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-@Table(name = "tb_comentarios")
+@Table(name = "tb_comentario")
 public class Comentario {
 
     @Id
